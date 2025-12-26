@@ -1,0 +1,4 @@
+monkey	원숭이	1	0	1
+camel	낙타	0	0	0
+lion	사자	0	0	0
+crow	까마귀	0	0	0
